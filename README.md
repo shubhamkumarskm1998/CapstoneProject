@@ -1,4 +1,4 @@
-# CapstoneProject-Employees Attrition Rate
+# CapstoneProject-Employees Data Analysis
 # Introduction: 
 You have been hired as a new data engineer at Analytixlabs. Your first major task is to work on data engineering project for one of the big corporation’s employee’s data from the 1980s and 1995s. All the database of employees from that period are provided six CSV files. In this project, you will design data model with all the tables to hold data, import the CSVs into a SQL database, transfer SQL database to HDFS/Hive, and perform analysis using Hive/Impala/Spark/SparkML using the data and create data and ML pipelines.
 # Project Description:
