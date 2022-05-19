@@ -28,4 +28,4 @@ Worked on below technology Stack.
 
 # Results
 1. stored the output of EDA in hive into the Outputfinal1.txt file
-2. Created a target variale left_job and implemented my ML model is able to predict with Accuracy of 90%
+2. Created a target variale left_job and implemented my ML model 
