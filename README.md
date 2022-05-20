@@ -27,5 +27,5 @@ Worked on below technology Stack.
 7. Created entire data pipeline and ML pipe line except for the Classifer as Other model can be deployed here as well.
 
 # Results
-1. stored the output of EDA in hive into the Outputfinal1.txt file
+1. stored the output of EDA in hive into the Outputfinal1.txt file and impala one into outimp.txt
 2. Created a target variale left_job and implemented my ML model 
