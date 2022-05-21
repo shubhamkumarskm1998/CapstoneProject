@@ -6,7 +6,7 @@ In this project, it is required to create end to end data pipeline and analyzing
 # Technology Stack:
 Worked on below technology Stack.
 - MySQL (to create database)
-- Linux Commands
+- Linux (Commands)
 - Sqoop (Transfer data from MySQL Server to HDFS/Hive)
 - HDFS (to store the data)
 - Hive (to create database)
